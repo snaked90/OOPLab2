@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPLab2.Program">
+    <Position X="7" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAACIAAAAAAAAAgAAAICAAAAAADAEAQAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab2.Satellite">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>oAEAIAAAUAAQAAQEEAAIAQQAAAEABAAAARAAABCBAAA=</HashCode>
+      <FileName>Satellite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OOPLab2.SType">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAAIAAIA=</HashCode>
+      <FileName>SType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
